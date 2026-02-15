@@ -17,7 +17,7 @@ Secure, fast, and beautifully crafted for productivity.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Framework**: Next.js (App Router)
 - **Styling**: Tailwind CSS
